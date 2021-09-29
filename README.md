@@ -30,5 +30,5 @@ Unless otherwise noted, all data in this project is Copyright (C) 2021 Mishigami
 * The Mishigami Blue Mastodon logo is a trademark of Mishigami Lodge, Order of the Arrow, BSA.
 * The Order of the Arrow Trademark image (the red arrowhead) is a trademark of the Order of the Arrow, BSA. Usage of this logo is restricted to the purposes outlined in the Order of the Arrow Branding Guide found at https://oa-bsa.org/resources/branding .
 * The GIS Data for the following layers has separate ownership:
-** MCC Districs is ©Michigan Crossroads Council, BSA
-** MI LP School Districts and MI LP Counties are both ©State of Michigan and the original source data can be found at https://gis-mdot.opendata.arcgis.com/search?tags=boundaries
+  * MCC Districs is ©Michigan Crossroads Council, BSA
+  * MI LP School Districts and MI LP Counties are both ©State of Michigan and the original source data can be found at https://gis-mdot.opendata.arcgis.com/search?tags=boundaries
