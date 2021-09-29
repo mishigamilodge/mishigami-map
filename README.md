@@ -6,6 +6,8 @@ This is a QGIS project for the official area and chapter map for Mishigami Lodge
 
 To open/edit this project, open the **.qgz** file using QGIS, which can be obtained from https://www.qgis.org/
 
+If the window looks blank, after opening it, pick the "Zoom Full" from the "View" menu to re-center the map.
+
 The printable version of the map is under Project > Layouts > Basic Chapter Map.
 
 Layer data from this map is exported to GeoJSON format for use by the interactive version of the map found at https://mishigami.org/chapters/ , with the source data placed at https://github.com/mishigamilodge/mishigami-wp-customizations/tree/staging/map-resources/layers
