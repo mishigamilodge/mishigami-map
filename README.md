@@ -6,7 +6,7 @@ This is a QGIS project for the official area and chapter map for Mishigami Lodge
 
 To open/edit this project, open the **.qgz** file using QGIS, which can be obtained from https://www.qgis.org/
 
-If the window looks blank, after opening it, pick the "Zoom Full" from the "View" menu to re-center the map.
+If the window looks blank after opening it, pick the "Zoom Full" from the "View" menu to re-center the map.
 
 The printable version of the map is under Project > Layouts > Basic Chapter Map.
 
