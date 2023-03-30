@@ -1,5 +1,5 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis version="3.22.8-Białowieża" projectname="Mishigami Lodge" saveUserFull="David Miller" saveDateTime="2023-03-29T22:10:20" saveUser="dave">
+<qgis version="3.22.8-Białowieża" projectname="Mishigami Lodge" saveUserFull="David Miller" saveDateTime="2023-03-29T22:32:12" saveUser="dave">
   <homePath path=""/>
   <title>Mishigami Lodge</title>
   <autotransaction active="0"/>
@@ -22,7 +22,7 @@
     <customproperties>
       <Option/>
     </customproperties>
-    <layer-tree-layer legend_exp="" providerKey="ogr" legend_split_behavior="0" expanded="1" id="Unit_Locations_e1411d56_3308_46d5_af91_8351fa689012" checked="Qt::Checked" patch_size="-1,-1" name="Unit Locations" source="./Layer Data/Unit Locations.shp">
+    <layer-tree-layer legend_exp="" providerKey="ogr" legend_split_behavior="0" expanded="1" id="Unit_Locations_e1411d56_3308_46d5_af91_8351fa689012" checked="Qt::Unchecked" patch_size="-1,-1" name="Unit Locations" source="./Layer Data/Unit Locations.shp">
       <customproperties>
         <Option/>
       </customproperties>
@@ -45,7 +45,7 @@
     <layer-tree-layer legend_exp="" providerKey="ogr" legend_split_behavior="0" expanded="1" id="Mishigami_Chapters_094c5f0c_cdfc_4875_b718_223bdb8b983f" checked="Qt::Unchecked" patch_size="-1,-1" name="Mishigami Chapters 2021" source="./Layer Data/Mishigami Chapters.shp">
       <customproperties>
         <Option type="Map">
-          <Option name="expandedLegendNodes"/>
+          <Option type="invalid" name="expandedLegendNodes"/>
         </Option>
       </customproperties>
     </layer-tree-layer>
@@ -107,7 +107,7 @@
     <layer-tree-layer legend_exp="" providerKey="ogr" legend_split_behavior="0" expanded="1" id="MI_LP_School_Districts_4aebbed9_cec8_4618_a45d_45997f1f03d6" checked="Qt::Unchecked" patch_size="-1,-1" name="MI LP School Districts" source="./Layer Data/MI LP School Districts.shp">
       <customproperties>
         <Option type="Map">
-          <Option name="expandedLegendNodes"/>
+          <Option type="invalid" name="expandedLegendNodes"/>
         </Option>
       </customproperties>
     </layer-tree-layer>
@@ -136,19 +136,19 @@
       <layer-setting units="1" maxScale="0" type="1" enabled="0" id="MCC_Camps_cc6cc791_c98a_45e8_b6d1_6d25916e65b2" tolerance="12" minScale="0"/>
       <layer-setting units="1" maxScale="0" type="1" enabled="0" id="Mishigami_Areas_775242d1_8c88_47b5_8da0_f4fb0d3fcfe6" tolerance="12" minScale="0"/>
       <layer-setting units="1" maxScale="0" type="1" enabled="0" id="East_Division_57b46b26_2e7b_4ae9_bece_ae6ae7ba88b0" tolerance="12" minScale="0"/>
+      <layer-setting units="1" maxScale="0" type="1" enabled="0" id="MCC_Districts_a685cbef_4a03_469e_bd16_ed2e824a24f2" tolerance="12" minScale="0"/>
       <layer-setting units="1" maxScale="0" type="1" enabled="0" id="MCC_Divisions_f719a7a4_72f3_4578_bcda_0af79d85ecf4" tolerance="12" minScale="0"/>
       <layer-setting units="1" maxScale="0" type="1" enabled="0" id="MI_LP_Counties_fa06c5c8_7be2_458c_b457_8c4ac1ddaae6" tolerance="12" minScale="0"/>
+      <layer-setting units="1" maxScale="0" type="1" enabled="0" id="Mishigami_Chapters_2022_Group_2_b07b85ed_3765_4185_a29d_112782de45d6" tolerance="12" minScale="0"/>
+      <layer-setting units="1" maxScale="0" type="1" enabled="0" id="Mishigami_Chapters_094c5f0c_cdfc_4875_b718_223bdb8b983f" tolerance="12" minScale="0"/>
       <layer-setting units="1" maxScale="0" type="1" enabled="0" id="Mishigami_Chapters_2022_d4f5e0b3_4ad7_41d1_913f_ee1f6d1d8a22" tolerance="12" minScale="0"/>
       <layer-setting units="1" maxScale="0" type="1" enabled="0" id="South_Service_Area_108be29e_bac6_404b_baee_2de3bb896e0b" tolerance="12" minScale="0"/>
+      <layer-setting units="1" maxScale="0" type="1" enabled="0" id="Mishigami_Chapters_2022_d6cf6e75_a1a4_4dee_ae95_8fb8c2b15f99" tolerance="12" minScale="0"/>
+      <layer-setting units="1" maxScale="0" type="1" enabled="0" id="Mishigami_Chapters_2022_93ef2d5b_9050_4430_a07a_83835a6e1bb7" tolerance="12" minScale="0"/>
+      <layer-setting units="1" maxScale="0" type="1" enabled="0" id="West_Service_Area_6f285c67_5fc4_456e_b4f1_4bfe497742bb" tolerance="12" minScale="0"/>
       <layer-setting units="1" maxScale="0" type="1" enabled="0" id="MIshigami_Areas_2022_43b8d88f_a0c3_4517_8a5a_575a6c4a7cfd" tolerance="12" minScale="0"/>
       <layer-setting units="1" maxScale="0" type="1" enabled="0" id="Unit_Locations_e1411d56_3308_46d5_af91_8351fa689012" tolerance="12" minScale="0"/>
-      <layer-setting units="1" maxScale="0" type="1" enabled="0" id="Mishigami_Chapters_2022_Group_2_b07b85ed_3765_4185_a29d_112782de45d6" tolerance="12" minScale="0"/>
-      <layer-setting units="1" maxScale="0" type="1" enabled="0" id="MCC_Districts_a685cbef_4a03_469e_bd16_ed2e824a24f2" tolerance="12" minScale="0"/>
-      <layer-setting units="1" maxScale="0" type="1" enabled="0" id="West_Service_Area_6f285c67_5fc4_456e_b4f1_4bfe497742bb" tolerance="12" minScale="0"/>
-      <layer-setting units="1" maxScale="0" type="1" enabled="0" id="Mishigami_Chapters_2022_d6cf6e75_a1a4_4dee_ae95_8fb8c2b15f99" tolerance="12" minScale="0"/>
       <layer-setting units="1" maxScale="0" type="1" enabled="0" id="MCC_Districts_aed19a5b_326f_4246_b976_51eb1c4dd29d" tolerance="12" minScale="0"/>
-      <layer-setting units="1" maxScale="0" type="1" enabled="0" id="Mishigami_Chapters_2022_93ef2d5b_9050_4430_a07a_83835a6e1bb7" tolerance="12" minScale="0"/>
-      <layer-setting units="1" maxScale="0" type="1" enabled="0" id="Mishigami_Chapters_094c5f0c_cdfc_4875_b718_223bdb8b983f" tolerance="12" minScale="0"/>
       <layer-setting units="1" maxScale="0" type="1" enabled="0" id="MI_LP_School_Districts_4aebbed9_cec8_4618_a45d_45997f1f03d6" tolerance="12" minScale="0"/>
     </individual-layer-settings>
   </snapping-settings>
@@ -157,10 +157,10 @@
   <mapcanvas name="theMapCanvas" annotationsVisible="1">
     <units>meters</units>
     <extent>
-      <xmin>3786189.23924492765218019</xmin>
-      <ymin>10201.0427428709808737</ymin>
-      <xmax>4171775.48390541505068541</xmax>
-      <ymax>496796.64272969192825258</ymax>
+      <xmin>3786189.23918949067592621</xmin>
+      <ymin>10200.76592540211277083</ymin>
+      <xmax>4171775.48390676733106375</xmax>
+      <ymax>496796.64954383386066183</ymax>
     </extent>
     <rotation>0</rotation>
     <destinationsrs>
@@ -181,9 +181,9 @@
   </mapcanvas>
   <projectModels/>
   <legend updateDrawingOrder="true">
-    <legendlayer showFeatureCount="0" drawingOrder="-1" checked="Qt::Checked" open="true" name="Unit Locations">
+    <legendlayer showFeatureCount="0" drawingOrder="-1" checked="Qt::Unchecked" open="true" name="Unit Locations">
       <filegroup hidden="false" open="true">
-        <legendlayerfile layerid="Unit_Locations_e1411d56_3308_46d5_af91_8351fa689012" visible="1" isInOverview="0"/>
+        <legendlayerfile layerid="Unit_Locations_e1411d56_3308_46d5_af91_8351fa689012" visible="0" isInOverview="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer showFeatureCount="0" drawingOrder="-1" checked="Qt::Checked" open="true" name="MCC Camps">
@@ -643,8 +643,8 @@
         <Option type="Map">
           <Option type="QString" value="&quot;name&quot;" name="dualview/previewExpressions"/>
           <Option type="QString" value="0" name="embeddedWidgets/count"/>
-          <Option name="variableNames"/>
-          <Option name="variableValues"/>
+          <Option type="invalid" name="variableNames"/>
+          <Option type="invalid" name="variableValues"/>
         </Option>
       </customproperties>
       <blendMode>0</blendMode>
@@ -1239,8 +1239,8 @@ def my_form_open(dialog, layer, feature):
       <customproperties>
         <Option type="Map">
           <Option type="QString" value="0" name="embeddedWidgets/count"/>
-          <Option name="variableNames"/>
-          <Option name="variableValues"/>
+          <Option type="invalid" name="variableNames"/>
+          <Option type="invalid" name="variableValues"/>
         </Option>
       </customproperties>
       <blendMode>0</blendMode>
@@ -1879,8 +1879,8 @@ def my_form_open(dialog, layer, feature):
             <Option type="QString" value="&quot;name&quot;"/>
           </Option>
           <Option type="QString" value="0" name="embeddedWidgets/count"/>
-          <Option name="variableNames"/>
-          <Option name="variableValues"/>
+          <Option type="invalid" name="variableNames"/>
+          <Option type="invalid" name="variableValues"/>
         </Option>
       </customproperties>
       <blendMode>0</blendMode>
@@ -2481,8 +2481,8 @@ def my_form_open(dialog, layer, feature):
         <Option type="Map">
           <Option type="QString" value="&quot;name&quot;" name="dualview/previewExpressions"/>
           <Option type="QString" value="0" name="embeddedWidgets/count"/>
-          <Option name="variableNames"/>
-          <Option name="variableValues"/>
+          <Option type="invalid" name="variableNames"/>
+          <Option type="invalid" name="variableValues"/>
         </Option>
       </customproperties>
       <blendMode>0</blendMode>
@@ -3095,8 +3095,8 @@ def my_form_open(dialog, layer, feature):
           <Option type="QString" value="true" name="qgis2web/Visible"/>
           <Option type="QString" value="no label" name="qgis2web/popup/id"/>
           <Option type="QString" value="no label" name="qgis2web/popup/name"/>
-          <Option name="variableNames"/>
-          <Option name="variableValues"/>
+          <Option type="invalid" name="variableNames"/>
+          <Option type="invalid" name="variableValues"/>
         </Option>
       </customproperties>
       <blendMode>0</blendMode>
@@ -3618,8 +3618,8 @@ def my_form_open(dialog, layer, feature):
         <Option type="Map">
           <Option type="QString" value="&quot;Name&quot;" name="dualview/previewExpressions"/>
           <Option type="QString" value="0" name="embeddedWidgets/count"/>
-          <Option name="variableNames"/>
-          <Option name="variableValues"/>
+          <Option type="invalid" name="variableNames"/>
+          <Option type="invalid" name="variableValues"/>
         </Option>
       </customproperties>
       <blendMode>0</blendMode>
@@ -4504,8 +4504,8 @@ def my_form_open(dialog, layer, feature):
           <Option type="QString" value="no label" name="qgis2web/popup/tessellate"/>
           <Option type="QString" value="no label" name="qgis2web/popup/timestamp"/>
           <Option type="QString" value="no label" name="qgis2web/popup/visibility"/>
-          <Option name="variableNames"/>
-          <Option name="variableValues"/>
+          <Option type="invalid" name="variableNames"/>
+          <Option type="invalid" name="variableValues"/>
         </Option>
       </customproperties>
       <blendMode>0</blendMode>
@@ -5368,8 +5368,8 @@ def my_form_open(dialog, layer, feature):
           <Option type="QString" value="true" name="qgis2web/Visible"/>
           <Option type="QString" value="no label" name="qgis2web/popup/id"/>
           <Option type="QString" value="no label" name="qgis2web/popup/name"/>
-          <Option name="variableNames"/>
-          <Option name="variableValues"/>
+          <Option type="invalid" name="variableNames"/>
+          <Option type="invalid" name="variableValues"/>
         </Option>
       </customproperties>
       <blendMode>0</blendMode>
@@ -5966,8 +5966,8 @@ def my_form_open(dialog, layer, feature):
           <Option type="QString" value="true" name="qgis2web/Visible"/>
           <Option type="QString" value="no label" name="qgis2web/popup/id"/>
           <Option type="QString" value="no label" name="qgis2web/popup/name"/>
-          <Option name="variableNames"/>
-          <Option name="variableValues"/>
+          <Option type="invalid" name="variableNames"/>
+          <Option type="invalid" name="variableValues"/>
         </Option>
       </customproperties>
       <blendMode>0</blendMode>
@@ -6564,8 +6564,8 @@ def my_form_open(dialog, layer, feature):
           <Option type="QString" value="no label" name="qgis2web/popup/Name"/>
           <Option type="QString" value="no label" name="qgis2web/popup/id"/>
           <Option type="QString" value="no label" name="qgis2web/popup/name"/>
-          <Option name="variableNames"/>
-          <Option name="variableValues"/>
+          <Option type="invalid" name="variableNames"/>
+          <Option type="invalid" name="variableValues"/>
         </Option>
       </customproperties>
       <blendMode>0</blendMode>
@@ -7258,8 +7258,8 @@ def my_form_open(dialog, layer, feature):
           <Option type="QString" value="no label" name="qgis2web/popup/Name"/>
           <Option type="QString" value="no label" name="qgis2web/popup/id"/>
           <Option type="QString" value="no label" name="qgis2web/popup/name"/>
-          <Option name="variableNames"/>
-          <Option name="variableValues"/>
+          <Option type="invalid" name="variableNames"/>
+          <Option type="invalid" name="variableValues"/>
         </Option>
       </customproperties>
       <blendMode>0</blendMode>
@@ -7901,8 +7901,8 @@ def my_form_open(dialog, layer, feature):
           <Option type="QString" value="no label" name="qgis2web/popup/Name"/>
           <Option type="QString" value="no label" name="qgis2web/popup/id"/>
           <Option type="QString" value="no label" name="qgis2web/popup/name"/>
-          <Option name="variableNames"/>
-          <Option name="variableValues"/>
+          <Option type="invalid" name="variableNames"/>
+          <Option type="invalid" name="variableValues"/>
         </Option>
       </customproperties>
       <blendMode>0</blendMode>
@@ -8544,8 +8544,8 @@ def my_form_open(dialog, layer, feature):
           <Option type="QString" value="no label" name="qgis2web/popup/Name"/>
           <Option type="QString" value="no label" name="qgis2web/popup/id"/>
           <Option type="QString" value="no label" name="qgis2web/popup/name"/>
-          <Option name="variableNames"/>
-          <Option name="variableValues"/>
+          <Option type="invalid" name="variableNames"/>
+          <Option type="invalid" name="variableValues"/>
         </Option>
       </customproperties>
       <blendMode>0</blendMode>
@@ -9187,8 +9187,8 @@ def my_form_open(dialog, layer, feature):
           <Option type="QString" value="no label" name="qgis2web/popup/Name"/>
           <Option type="QString" value="no label" name="qgis2web/popup/id"/>
           <Option type="QString" value="no label" name="qgis2web/popup/name"/>
-          <Option name="variableNames"/>
-          <Option name="variableValues"/>
+          <Option type="invalid" name="variableNames"/>
+          <Option type="invalid" name="variableValues"/>
         </Option>
       </customproperties>
       <blendMode>0</blendMode>
@@ -9830,8 +9830,8 @@ def my_form_open(dialog, layer, feature):
           <Option type="QString" value="no label" name="qgis2web/popup/Name"/>
           <Option type="QString" value="no label" name="qgis2web/popup/id"/>
           <Option type="QString" value="no label" name="qgis2web/popup/name"/>
-          <Option name="variableNames"/>
-          <Option name="variableValues"/>
+          <Option type="invalid" name="variableNames"/>
+          <Option type="invalid" name="variableValues"/>
         </Option>
       </customproperties>
       <blendMode>0</blendMode>
@@ -10462,8 +10462,8 @@ def my_form_open(dialog, layer, feature):
         <Option type="Map">
           <Option type="QString" value="&quot;name&quot;" name="dualview/previewExpressions"/>
           <Option type="QString" value="0" name="embeddedWidgets/count"/>
-          <Option name="variableNames"/>
-          <Option name="variableValues"/>
+          <Option type="invalid" name="variableNames"/>
+          <Option type="invalid" name="variableValues"/>
         </Option>
       </customproperties>
       <blendMode>0</blendMode>
@@ -11050,8 +11050,8 @@ def my_form_open(dialog, layer, feature):
           <Option type="QString" value="no label" name="qgis2web/popup/Name"/>
           <Option type="QString" value="no label" name="qgis2web/popup/id"/>
           <Option type="QString" value="no label" name="qgis2web/popup/name"/>
-          <Option name="variableNames"/>
-          <Option name="variableValues"/>
+          <Option type="invalid" name="variableNames"/>
+          <Option type="invalid" name="variableValues"/>
         </Option>
       </customproperties>
       <blendMode>0</blendMode>
@@ -11406,7 +11406,7 @@ def my_form_open(dialog, layer, feature):
       <SelectionColorRedPart type="int">255</SelectionColorRedPart>
     </Gui>
     <Layouts>
-      <lastLayoutExportDir type="QString">/Users/dave/Pictures/ArtWork/Mishigami Map/WebMap/South Area Outline.svg</lastLayoutExportDir>
+      <lastLayoutExportDir type="QString"></lastLayoutExportDir>
     </Layouts>
     <Legend>
       <filterByMap type="bool">false</filterByMap>
@@ -11504,7 +11504,7 @@ def my_form_open(dialog, layer, feature):
       <Addaddresssearch type="bool">false</Addaddresssearch>
       <Addlayerslist type="QString">Expanded</Addlayerslist>
       <Exporter type="QString">folder</Exporter>
-      <Exportfolder type="QString">/Users/dave/Documents/ArtWork/Mishigami Map/WebMap</Exportfolder>
+      <Exportfolder type="QString"></Exportfolder>
       <Extent type="QString">Fit to layers extent</Extent>
       <Geolocateuser type="bool">true</Geolocateuser>
       <Highlightonhover type="bool">false</Highlightonhover>
@@ -11802,7 +11802,7 @@ def my_form_open(dialog, layer, feature):
           </customproperties>
         </LayoutObject>
       </LayoutItem>
-      <LayoutItem referencePoint="4" zValue="1" size="158.538,185.662,mm" visibility="1" mapFlags="0" positionLock="false" outlineWidthM="0.3,mm" uuid="{e64cf7b8-5d9f-480f-8500-d168c98d8809}" groupUuid="" position="78.4407,92.8305,mm" positionOnPage="78.4407,92.8305,mm" frame="false" keepLayerSet="true" itemRotation="0" followPreset="false" labelMargin="0,mm" id="" isTemporal="0" mapRotation="0" templateUuid="{e64cf7b8-5d9f-480f-8500-d168c98d8809}" type="65639" frameJoinStyle="miter" excludeFromExports="0" blendMode="0" opacity="1" drawCanvasItems="true" followPresetName="" background="true">
+      <LayoutItem referencePoint="4" zValue="1" size="158.538,185.662,mm" visibility="1" mapFlags="0" positionLock="false" outlineWidthM="0.3,mm" uuid="{e64cf7b8-5d9f-480f-8500-d168c98d8809}" groupUuid="" position="78.4407,92.8304,mm" positionOnPage="78.4407,92.8304,mm" frame="false" keepLayerSet="true" itemRotation="0" followPreset="false" labelMargin="0,mm" id="" isTemporal="0" mapRotation="0" templateUuid="{e64cf7b8-5d9f-480f-8500-d168c98d8809}" type="65639" frameJoinStyle="miter" excludeFromExports="0" blendMode="0" opacity="1" drawCanvasItems="true" followPresetName="" background="true">
         <FrameColor red="0" green="0" blue="0" alpha="255"/>
         <BackgroundColor red="255" green="255" blue="255" alpha="255"/>
         <LayoutObject>
@@ -11819,7 +11819,7 @@ def my_form_open(dialog, layer, feature):
         </LayoutObject>
         <Extent xmax="4240361.30954623408615589" xmin="3717603.41360410861670971" ymin="-52598.78417895606253296" ymax="559596.46965151897165924"/>
         <LayerSet>
-          <Layer provider="ogr" name="MCC Camps" source="/Users/dave/Downloads/MCC Camps.kml|layername=MCC Camps">MCC_Camps_cc6cc791_c98a_45e8_b6d1_6d25916e65b2</Layer>
+          <Layer provider="ogr" name="MCC Camps" source="/Users/dave/Source/OAStuff/mishigami-map/Layer Data/MCC Camps.kml|layername=MCC Camps|geometrytype=Point25D">MCC_Camps_cc6cc791_c98a_45e8_b6d1_6d25916e65b2</Layer>
           <Layer provider="ogr" name="MIshigami Areas 2022" source="/Users/dave/Source/OAStuff/mishigami-map/Layer Data/Mishigami Areas 2022.shp">MIshigami_Areas_2022_43b8d88f_a0c3_4517_8a5a_575a6c4a7cfd</Layer>
           <Layer provider="ogr" name="Mishigami Chapters 2022" source="/Users/dave/Source/OAStuff/mishigami-map/Layer Data/Mishigami Chapters 2022.shp">Mishigami_Chapters_2022_Group_2_b07b85ed_3765_4185_a29d_112782de45d6</Layer>
           <Layer provider="ogr" name="MI LP Counties" source="/Users/dave/Source/OAStuff/mishigami-map/Layer Data/MI LP Counties.shp">MI_LP_Counties_fa06c5c8_7be2_458c_b457_8c4ac1ddaae6</Layer>
@@ -12045,7 +12045,7 @@ def my_form_open(dialog, layer, feature):
           </customproperties>
         </LayoutObject>
       </LayoutItem>
-      <LayoutItem referencePoint="4" zValue="1" size="158.538,185.662,mm" visibility="1" mapFlags="0" positionLock="false" outlineWidthM="0.3,mm" uuid="{f63a0c09-d4a0-44a5-a871-a2ceda5c3d21}" groupUuid="" position="78.4407,92.8304,mm" positionOnPage="78.4407,92.8304,mm" frame="false" keepLayerSet="true" itemRotation="0" followPreset="false" labelMargin="0,mm" id="" isTemporal="0" mapRotation="1" templateUuid="{f63a0c09-d4a0-44a5-a871-a2ceda5c3d21}" type="65639" frameJoinStyle="miter" excludeFromExports="0" blendMode="0" opacity="1" drawCanvasItems="true" followPresetName="" background="true">
+      <LayoutItem referencePoint="4" zValue="1" size="158.538,185.662,mm" visibility="1" mapFlags="0" positionLock="false" outlineWidthM="0.3,mm" uuid="{f63a0c09-d4a0-44a5-a871-a2ceda5c3d21}" groupUuid="" position="78.4407,92.8303,mm" positionOnPage="78.4407,92.8303,mm" frame="false" keepLayerSet="true" itemRotation="0" followPreset="false" labelMargin="0,mm" id="" isTemporal="0" mapRotation="1" templateUuid="{f63a0c09-d4a0-44a5-a871-a2ceda5c3d21}" type="65639" frameJoinStyle="miter" excludeFromExports="0" blendMode="0" opacity="1" drawCanvasItems="true" followPresetName="" background="true">
         <FrameColor red="0" green="0" blue="0" alpha="255"/>
         <BackgroundColor red="255" green="255" blue="255" alpha="255"/>
         <LayoutObject>
@@ -12252,7 +12252,7 @@ def my_form_open(dialog, layer, feature):
   <Bookmarks/>
   <ProjectViewSettings UseProjectScales="0">
     <Scales/>
-    <DefaultViewExtent xmax="4341970.49251346196979284" xmin="3615994.23063688073307276" ymin="10201.0427428709808737" ymax="496796.64272969192825258">
+    <DefaultViewExtent xmax="4341970.70406849775463343" xmin="3615994.01902776025235653" ymin="10200.76592540211277083" ymax="496796.64954383386066183">
       <spatialrefsys>
         <wkt>PROJCRS["NAD83 / Michigan South",BASEGEOGCRS["NAD83",DATUM["North American Datum 1983",ELLIPSOID["GRS 1980",6378137,298.257222101,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4269]],CONVERSION["SPCS83 Michigan South zone (meters)",METHOD["Lambert Conic Conformal (2SP)",ID["EPSG",9802]],PARAMETER["Latitude of false origin",41.5,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8821]],PARAMETER["Longitude of false origin",-84.3666666666667,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8822]],PARAMETER["Latitude of 1st standard parallel",43.6666666666667,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8823]],PARAMETER["Latitude of 2nd standard parallel",42.1,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8824]],PARAMETER["Easting at false origin",4000000,LENGTHUNIT["metre",1],ID["EPSG",8826]],PARAMETER["Northing at false origin",0,LENGTHUNIT["metre",1],ID["EPSG",8827]]],CS[Cartesian,2],AXIS["easting (X)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["unknown"],AREA["USA - Michigan - SPCS - S"],BBOX[41.69,-87.2,44.22,-82.13]],ID["EPSG",26990]]</wkt>
         <proj4>+proj=lcc +lat_0=41.5 +lon_0=-84.3666666666667 +lat_1=43.6666666666667 +lat_2=42.1 +x_0=4000000 +y_0=0 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs</proj4>
