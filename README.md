@@ -4,7 +4,7 @@ This is a QGIS project for the official area and chapter map for Mishigami Lodge
 
 ## Usage
 
-To open/edit this project, open the **.qgz** file using QGIS, which can be obtained from https://www.qgis.org/
+To open/edit this project, open the **.qgs** file using QGIS, which can be obtained from https://www.qgis.org/
 
 If the window looks blank after opening it, pick "Zoom Full" from the "View" menu to re-center the map.
 
@@ -27,7 +27,7 @@ If you have any questions please contact David Miller.
 
 ## Licensing
 
-Unless otherwise noted, all data in this project is Copyright (C) 2021-2022 Mishigami Lodge, All Rights Reserved.
+Unless otherwise noted, all data in this project is Copyright (C) 2021-2023 Mishigami Lodge, All Rights Reserved.
 
 * The Mishigami Blue Mastodon logo is a trademark of Mishigami Lodge, Order of the Arrow, BSA.
 * The Order of the Arrow Trademark image (the red arrowhead) is a trademark of the Order of the Arrow, BSA. Usage of this logo is restricted to the purposes outlined in the Order of the Arrow Branding Guide found at https://oa-bsa.org/resources/branding .
