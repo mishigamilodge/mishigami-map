@@ -4,7 +4,7 @@ This is a QGIS project for the official area and chapter map for Mishigami Lodge
 
 ## Usage
 
-To open/edit this project, download the entire project to your local computer, then open the **.qgs** file using QGIS, which can be obtained from https://www.qgis.org/
+To open/edit this project, download the entire project to your local computer, then open the **.qgs** file using QGIS, which can be obtained from https://www.qgis.org/ . The version stored in this project is maintained using the LTS (long term support) version of QGIS. If you want to save changes back to GitHub you should use the LTS version.
 
 If the window looks blank after opening it, pick "Zoom Full" from the "View" menu to re-center the map.
 
