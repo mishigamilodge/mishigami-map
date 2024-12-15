@@ -34,4 +34,4 @@ Unless otherwise noted, all data in this project is Copyright (C) 2021-2025 Mish
 * The GIS Data for the following layers has separate ownership:
   * MCC Districts is ©Michigan Crossroads Council, BSA
   * MI School Districts 202408 and MI Counties 202408 are both ©State of Michigan and the original source data can be found at https://gis-mdot.opendata.arcgis.com/search?tags=boundaries
-  * WI Counties 2021701 truncated is ©State of Wisconsin and the original source data can be found at https://data-wi-dnr.opendata.arcgis.com/datasets/county-boundaries-24k/explore
+  * WI Counties 201701 truncated is ©State of Wisconsin and the original source data can be found at https://data-wi-dnr.opendata.arcgis.com/datasets/county-boundaries-24k/explore
