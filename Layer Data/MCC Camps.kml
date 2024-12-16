@@ -42,6 +42,10 @@
         <styleUrl>#icon-1765-0288D1-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Schema id="MCC_Camps.schema">
+      <SimpleField name="x" type="float"/>
+      <SimpleField name="y" type="float"/>
+    </Schema>
     <Placemark>
       <name>Gerber Scout Reservation</name>
       <styleUrl>#icon-1765-0288D1-nodesc</styleUrl>
@@ -87,11 +91,17 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark id="MCC_Camps.6">
+      <name>Camp Hiawatha</name>
+    </Placemark>
+    <Placemark id="MCC_Camps.7">
+      <name>Camp Hiawatha</name>
+    </Placemark>
     <Placemark id="MCC_Camps.8">
       <name>Camp Hiawatha</name>
       <Point>
         <coordinates>
-          -86.7919565,46.2670912,0
+          -86.7446543884278,46.373044288097,0
         </coordinates>
       </Point>
     </Placemark>
